@@ -10,6 +10,7 @@ lab:
 > - Some terminology in Microsoft Dataverse has been updated. For example, *entity* is now *table* and *field* is now *column*. [Learn more](https://go.microsoft.com/fwlink/?linkid=2147247)
 >
 > This content will be updated soon to reflect the latest terminology.
+![image](https://user-images.githubusercontent.com/33165238/110502023-6a464b80-80c0-11eb-9c56-16ffa029b380.png)
 
 
 # Lab 02: Data model and model-driven app
